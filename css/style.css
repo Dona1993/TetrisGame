@@ -1,5 +1,5 @@
 body {
-  background-image: url("/images/background.jpg");
+  background-image: url(../images/background.jpg);
   background-size: cover;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
@@ -16,7 +16,7 @@ body {
   height: 400px;
   display: flex;
   flex-wrap: wrap;
-  background-image: url(/images/bg-sm.jpg);
+  background-image: url(../images/bg-sm.jpg);
   background-size: cover;
   border: 2px solid navy;
 }
@@ -36,7 +36,7 @@ body {
   height: 80px;
   display: flex;
   flex-wrap: wrap;
-  background-image: url(/images/bg-sm.jpg);
+  background-image: url(../images/bg-sm.jpg);
   border: 2px solid navy;
 }
 
